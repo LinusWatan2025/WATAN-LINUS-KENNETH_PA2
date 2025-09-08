@@ -1,6 +1,6 @@
 ## OVERVIEW
 
-This repository contains the solutions for **PA1 of the Advanced Computer Programming and Algorithms (ECE2112)** course. The project introduces fundamental Python concepts such as **NumPy operations, normalization, matrix manipulation, and logical indexing**. Each problem strengthens understanding of data preprocessing and array-based problem solving, which are essential for engineering and data science applications.
+This repository contains the solutions for **PA1 of the Advanced Computer Programming and Algorithms (ECE2112)** course. The project introduces fundamental Python concepts such as **Numpy operations, normalization, matrix manipulation, and logical indexing**. Each problem strengthens understanding of data preprocessing and array-based problem solving, which are essential for engineering and data science applications.
 
 ---
 
@@ -8,7 +8,7 @@ This repository contains the solutions for **PA1 of the Advanced Computer Progra
 
 **What it is:**
 
-A program that generates a random 5×5 NumPy ndarray, normalizes it using mean and standard deviation, and saves the result in a file named **`X_normalized.npy`**.
+A program that generates a random 5×5 ndarray, normalizes it using mean and standard deviation, and saves the result in a file named **`X_normalized.npy`**.
 
 **Why it's useful:**
 
