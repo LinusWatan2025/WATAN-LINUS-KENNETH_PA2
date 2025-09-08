@@ -1,6 +1,6 @@
 ## OVERVIEW
 
-This repository contains the solutions for **PA1 of the Advanced Computer Programming and Algorithms (ECE2112)** course. The project introduces fundamental Python concepts such as **Numpy operations, normalization, matrix manipulation, and logical indexing**. Each problem strengthens understanding of data preprocessing and array-based problem solving, which are essential for engineering and data science applications.
+This repository contains the solutions for **PA2 of the Advanced Computer Programming and Algorithms (ECE2112)** course. The project introduces fundamental Python concepts such as **Numpy operations, normalization, matrix manipulation, and logical indexing**. Each problem strengthens understanding of data preprocessing and array-based problem solving, which are essential for engineering and data science applications.
 
 ---
 
@@ -12,7 +12,7 @@ A program that generates a random 5×5 ndarray, normalizes it using mean and sta
 
 **Why it's useful:**
 
-Normalization is a key preprocessing step in data analytics and machine learning. It ensures that features are on the same scale, improving the stability and accuracy of models. This exercise demonstrates how to center data and scale it efficiently using NumPy functions.
+Normalization is a key preprocessing step in data analytics and machine learning. It ensures that features are on the same scale, improving the stability and accuracy of models. This exercise demonstrates how to center data and scale it efficiently using Numpy functions.
 
 **How to get started:**
 
@@ -51,7 +51,7 @@ A program that creates a 10×10 ndarray containing the squares of the first 100 
 
 **Why it's useful:**
 
-This problem demonstrates the use of array creation, mathematical transformations, and boolean indexing in NumPy. Identifying elements based on divisibility helps build intuition for filtering data, a common task in analytics and algorithm design.
+This problem demonstrates the use of array creation, mathematical transformations, and boolean indexing in Numpy. Identifying elements based on divisibility helps build intuition for filtering data, a common task in analytics and algorithm design.
 
 **How to get started:**
 
